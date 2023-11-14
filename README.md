@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="gifs/Patrick.gif" width="110" height="130" />
 
-## Front-End Developer & VR developer
+## Software Developer & VR developer
 
 - 📫 How to reach me **patrykbartyzel0@gmail.com**
 
