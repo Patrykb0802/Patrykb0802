@@ -1,4 +1,4 @@
-### Hi there, I'm Patryk Bartyzel 👋
+### Hello there 👋
 
 <img align="right" alt="GIF" src="gifs/Patrick.gif" width="110" height="130" />
 
@@ -20,13 +20,6 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: Most Used Languages</summary>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrykb0802)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
 
 
 <!---
